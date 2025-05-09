@@ -1,0 +1,9 @@
+{
+    "products": [
+        { "id": 1, "name": "Монитор Dell 27\"", "category": "electronics", "quantity": 15, "price": 24990 },
+        { "id": 2, "name": "Клавиатура Logitech", "category": "electronics", "quantity": 3, "price": 8490 },
+        { "id": 3, "name": "Мышь Razer Viper", "category": "electronics", "quantity": 0, "price": 5990 },
+        { "id": 4, "name": "Ноутбук ASUS ROG", "category": "electronics", "quantity": 7, "price": 89990 },
+        { "id": 5, "name": "SSD Samsung 1TB", "category": "electronics", "quantity": 2, "price": 7490 }
+    ]
+}
